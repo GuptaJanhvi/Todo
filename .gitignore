@@ -1,0 +1,52 @@
+# Django
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# SQLite databases
+*.sqlite3
+*.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Python
+*.egg-info/
+dist/
+build/
+.coverage
+htmlcov/
+
+# Virtual environment
+venv/
+myenv/
+env/
+
+# Test files
+.pytest_cache/
+.mypy_cache/
